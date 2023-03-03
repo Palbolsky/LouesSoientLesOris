@@ -1,0 +1,8 @@
+{
+  "win32-x64-prod": {
+    "readme": "Test release",
+    "update": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/win32-x64-prod-v1.0.1",
+    "install": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/win32-x64-prod-v1.0.1/Forêt.Éternelle.Launcher.Setup.exe",
+    "version": "1.0.1"
+  }
+}

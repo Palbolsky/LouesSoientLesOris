@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "readme": "Release 2.0.0",
-    "update": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/release2.0.0",
-    "install": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/release2.0.0/Pokemon.Studio-2.0.0.Setup.exe",
-    "version": "2.0.0"
+    "readme": "Release 1.0.4",
+    "update": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/release1.0.4",
+    "install": "https://github.com/Palbolsky/LouesSoientLesOris/releases/download/release1.0.4/Foret-Eternelle-Launcher-Setup.exe",
+    "version": "1.0.4"
   }
 }
